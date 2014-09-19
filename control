@@ -1,0 +1,10 @@
+Package: me.cykey.gps-coords
+Name: gpscoords
+Depends: 
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Simple CLI utility to get current GPS coordinates
+Maintainer: Cykey
+Author: Cykey
+Section: System
+Tag: role::hacker
